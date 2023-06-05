@@ -1,9 +1,9 @@
-import "./App.css";
-
 function App() {
   return (
     <>
-      <div>Hello World</div>
+      <main className="bg-sky-800 min-h-screen text-white flex flex-col justify-center items-center  text-4xl">
+        Hello World
+      </main>
     </>
   );
 }
